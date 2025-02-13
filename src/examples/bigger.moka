@@ -1,0 +1,4 @@
+class C extends A {
+	int a = 12;
+boolean h31th3r3; boolean isTrue = true;
+}
